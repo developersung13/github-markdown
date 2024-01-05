@@ -14,6 +14,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
+
 ```markdown
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
@@ -23,6 +24,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 > [!TIP]
 > Optional information to help a user be more successful.
+
 ```markdown
 > [!TIP]
 > Optional information to help a user be more successful.
@@ -32,6 +34,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
+
 ```markdown
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
@@ -41,6 +44,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
 ```markdown
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
@@ -50,6 +54,7 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
 ```markdown
 > [!CAUTION]
 > Negative potential consequences of an action.
@@ -124,15 +129,3 @@ Hold <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> and press <kbd>A</kbd> to selec
 ```
 
 Hold <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> and press <kbd>A</kbd> to select all text.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-[↑ Back to top](#)
-
-```
-
-```
