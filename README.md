@@ -8,16 +8,41 @@ Here are a few markdown additions and hints for GitHub Markdown.
 
 Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2 '@seanh/html_tags_you_can_use_on_github.md') Gist for mor information about GitHub markdown.
 
-## Blockquotes
+## Blockquotes(Beta)
 
-### Badges
-
-You can use these additional badges to give your makrdown more structure and statement. The badges are always `21px` high and `100px` wide. The SVG consists of the symbol and the text behind it. You can find the Octicon symbols [here](https://primer.style/octicons/). The fontstack I used can be found [here](https://primer.style/design/foundations/typography#font-stack). The badges adapt to the selected theme.
-
-#### Info Badge
+### Note
 
 ```markdown
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+```
 
+### Tip
+
+```markdown
+> [!TIP]
+> Optional information to help a user be more successful.
+```
+
+### Important
+
+```markdown
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+```
+
+### Warning
+
+```markdown
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+```
+
+### Caution
+
+```markdown
+> [!CAUTION]
+> Negative potential consequences of an action.
 ```
 
 ## Tooltips
@@ -97,3 +122,7 @@ Hold <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> and press <kbd>A</kbd> to selec
 <br>
 
 [↑ Back to top](#)
+
+```
+
+```
