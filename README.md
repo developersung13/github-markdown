@@ -12,6 +12,8 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ### Note
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
 ```markdown
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
@@ -19,6 +21,8 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ### Tip
 
+> [!TIP]
+> Optional information to help a user be more successful.
 ```markdown
 > [!TIP]
 > Optional information to help a user be more successful.
@@ -26,6 +30,8 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ### Important
 
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
 ```markdown
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
@@ -33,6 +39,8 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ### Warning
 
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 ```markdown
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
@@ -40,6 +48,8 @@ Also check out [this](https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf968
 
 ### Caution
 
+> [!CAUTION]
+> Negative potential consequences of an action.
 ```markdown
 > [!CAUTION]
 > Negative potential consequences of an action.
